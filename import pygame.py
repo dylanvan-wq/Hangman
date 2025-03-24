@@ -22,8 +22,8 @@ for i in range(26):
 
 # fonts
 LETTER_FONT = pygame.font.SysFont('comicsans', 40)
-WORD_FONT = pygame.font.SysFont('comicsans', 60)
-TITLE_FONT = pygame.font.SysFont('comicsans', 70)
+WORD_FONT = pygame.font.SysFont('Luckiest Guy', 60)
+TITLE_FONT = pygame.font.SysFont('Luckiest Guy', 70)
 
 # load images.
 images = []
