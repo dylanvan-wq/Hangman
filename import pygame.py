@@ -121,6 +121,9 @@ def main():
             break
     
 while True:
+    game_running = main()
+    if not game_running: # Exit the loop if the user closes the game window
+        break
     
     main()
 pygame.quit()
